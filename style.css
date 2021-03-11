@@ -1,0 +1,29 @@
+body {
+    padding: 12px;
+    display: inline-block;
+    background-color: black;
+}
+
+div.post{
+    display: inline-block;
+	width: 500px;
+    margin: auto; 
+    background: white; 
+}
+
+div.foto {
+    max-width: 100%;
+    height: auto;
+}
+
+div.opciones{
+    font-size: 27px;
+}
+
+div.publicacion i{
+    font-size: 30px;
+}
+
+div.publicacion p{
+    display: inline-block;
+}
